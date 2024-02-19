@@ -63,7 +63,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://buho.la/images/chat/chat-buho.svg',
+          src: 'https://img.freepik.com/vector-gratis/coche-rojo-caracter-carton-ojos-grandes-aislado_1308-46902.jpg',
         },
         items: [
           // {
